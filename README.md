@@ -3,7 +3,7 @@
 ## Functionality
 It can be used to create, update, and delete txt files.
 
-## Two ways to run the file manager:-
+## Three ways to use the file manager:-
 
 ### 1. Run the script with the --delete option to delete a file:
 python script.py --delete filename.txt
@@ -17,3 +17,6 @@ lines
 to
 be
 added"""
+
+### 3. Or run it --rename to rename a file
+python script.py example.txt --rename newFileName.txt
