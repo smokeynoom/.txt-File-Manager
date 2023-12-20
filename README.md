@@ -19,4 +19,4 @@ be
 added"""
 
 ### 3. Or run it --rename to rename a file
-python script.py example.txt --rename newFileName.txt
+python script.py filename.txt --rename newFileName.txt
